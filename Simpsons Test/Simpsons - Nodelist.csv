@@ -1,9 +1,0 @@
-id,name,sex,power,fans,,
-H,Homer,2,2,3,,
-M,Marge,1,2,2,Codebuch,
-B,Bart,2,1,2,sex,"1=female, 2=male, 3=divers,"
-L,Lisa,1,1,2,age,"1=young, 2=middleage, 3=old"
-Ma,Maggie,1,1,1,weight,"1=skinny, 2=normal, 3=overweight"
-F,Flanders,2,2,2,,
-Mo,Mo,2,2,1,,
-Bu,Mr.Burns,2,3,1,,
